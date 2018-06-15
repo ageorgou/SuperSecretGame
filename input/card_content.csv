@@ -13,16 +13,16 @@ Corrupt backups,Event,Your system backups are corrupted!,"Lose a turn sorting ou
 Funding confirmed!,Event,A grant proposal was successful.,"Miss a turn if you have more projects than team members, while you recruit. Otherwise, move +1 per team member card you have.",funding.png,ucl-rojo.png
 The Fortran Curse,Event,"You left the cursed Fortran book out of its magic chest overnight, and now the office is flooded.","Lose a turn while you clean up and order new laptops, and lose Jens if you have him.",fortran.png,ucl-rojo.png
 Cold War with Computer Science,Event,Projects got allocated to CS guys instead.,"Lose half your projects and the team members on CS projects (Asif, Roland and Jonathan if in hand).",ucl.png,ucl-rojo.png
-Loss of crates,Event,Some crates mysteriously disappear while moving offices.,Your fancy screens are gone! Productivity is reduced. Move back 2 squares per project in hand.,crateslost.jpg,ucl-rojo.png
+Loss of crates,Event,Some crates mysteriously disappear while moving offices.,Your fancy screens are gone! Productivity is reduced. Move back 2 squares per project.,crateslost.jpg,ucl-rojo.png
 Professor Keeter Bloveney,Event,One of your old collaborators demands you go back and fix his code.,Go back 8 squares or lose a team member.,ucl.png,ucl-rojo.png
 The Provost,Event,The provost cuts jobs across professional services to pay for his latest vanity project. RITS staff strike in solidarity.,Roll a die and lose that many team members.,ucl.png,ucl-rojo.png
-Strike !,Event,UCU calls for pension strike.,Your team members are striking. Projects are delayed. Roll a dice per team member and move back that many squares.,strike.png,ucl-rojo.png
+Strike !,Event,UCU calls for pension strike. Projects are delayed.,Your team is striking. Roll a die per team member and move back that many squares.,strike.png,ucl-rojo.png
 Metadata loss,Event,Research Data's object store has lost the metadata.,Swap all project cards with a player of your choice.,datacentre.png,ucl-rojo.png
 Roland,Team member,Roland takes a loooooooooooong time to understand the subtleties of perfect software crafting.,He will eventually get there. Reduce your forward moves by 1 for the time spent in explanations.,Roland.jpg,ucl-rojo.png
 DDoS attack,Event,UCLU have cancelled a speaker and as a result UCL are under attack from a botnet.,Miss a turn.,ddos.png,ucl-rojo.png
 GDPR,Event,You spend too much time sorting out all GPDR emails.,Miss a turn.,gdpr.png,ucl-rojo.png
 Geekbot is going crazy!,Event,You receive random Geekbot notifications.,"Have you chosen who you will pair with? If not, by the end of reading, move to the last player position.",slack.png,ucl-rojo.png
-Security hole,Event,A PI has demanded you implement something in an insecure way as their project is not a target for hackers.,"Hold your cards face down in front of the other players, and allow them each to steal one at random.",hole.jpg,ucl-rojo.png
+Security hole,Event,A PI has demanded you implement something in an insecure way as their project is not a target for hackers.,"Hold your cards face down, and allow each other player to steal one at random.",hole.jpg,ucl-rojo.png
 Bad research,Event,"Someone is running simulations on the cluster, looking for a positive result they can publish.","Roll the dice as many times as it takes to get the number of moves you want, then discard this card.",rc.png,ucl-rojo.png
 Asif,Team member,Asif has decided to spend the afternoon hacking his dotfiles.,Lose a turn until he comes to his senses. Discard this card.,Asif.jpg,ucl-rojo.png
 Anastasis,Team member,"Anastasis is working on projects he knows nothing about, and is distracted with background reading.",Roll a die and move back that many squares. Discard this card.,Anastasis.jpg,ucl-rojo.png
@@ -46,7 +46,7 @@ Ilektra,Team Member,"Technical *and* socially-minded. Upper management, be afrai
 Jonathan,Team Member,"Dabbles in a bit of everything.
 ",Keep this card. Take an extra turn each time you gain a project if you have more than five.,jon.png,ucl-azul.png
 Ben,Team Member,"Roaming man of maps, travels in search of sunny climates.",Add +2 to all rolls. Discard after two turns.,ben.png,ucl-azul.png
-Sinan,Team Member,"Mysterious man from the east, icon of diversity, fights the mysterious dragon in the haven of data. ",Keep this card. Use it at any time allows you to keep any number of your cards when you are forced to discard them.,sinan.png,ucl-azul.png
+Sinan,Team Member,"Mysterious man from the east, icon of diversity, fights the mysterious dragon in the haven of data. ",Keep this card for use later. Any one time, keep any number of cards you are forced to discard, then discard Sinan.,sinan.png,ucl-azul.png
 Helen,Team Member,"Inspirational Django developer.
 ",Keep this card. +1 to all rolls if you also have the Dashboard project.,helen.png,ucl-azul.png
 Eva,Team Member,Eva knows all and keeps everything running. She thanks you ever so much.,"Keep this card. When you start your turn, you may look at the top three cards of the deck and rearrange them.",eva.jpg,ucl-azul.png
