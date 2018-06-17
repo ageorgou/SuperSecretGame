@@ -19,7 +19,7 @@ for i in ${output[@]}; do
     if [[ $i = *back* ]]; then
         input_files=$(seq $(ls ??.pdf | wc -l) | sed "c back_card.pdf")
     fi
-    pdfjam ${input_files} -q --nup 2x4 --frame true  --outfile ${i}
+    pdfjam ${input_files} -q --nup 4x2 --landscape --frame true  --outfile ${i}
 done
 
 # merge files interleaving page of one with pdftk
